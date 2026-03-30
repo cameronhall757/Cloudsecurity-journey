@@ -162,3 +162,4 @@ Skills Demonstrated
 	•	Cloud security fundamentals
 	•	Log monitoring and threat awareness
 	•	Firewall and access control management
+	[CloudWatch Lab Steps](CloudWatch_Lab.md)
