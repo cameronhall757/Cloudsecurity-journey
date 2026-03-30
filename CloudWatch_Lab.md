@@ -20,4 +20,4 @@
 
 ## References
 - [AWS CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/)
-- [Setting Up CloudWatch Agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent.html)b
+- [Setting Up CloudWatch Agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/install-CloudWatch-Agent.html)
